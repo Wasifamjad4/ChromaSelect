@@ -97,6 +97,6 @@ ChromaSelect/
 
 ---
 
-## 🎓Academic Context
+## Academic Context
 
 Developed as part of the **LIFAMI** course (C++ graphics programming) at **Université Claude Bernard Lyon 1** — Licence Mathématiques-Informatique, Year 1 (2025).
